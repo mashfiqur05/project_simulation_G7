@@ -5,5 +5,7 @@
 "" 
 "## F-7: Admins can review, approve, and monitor all public tour events to ensure they follow platform guidelines and are safe for users" 
 "This helps prevent misuse and maintain a high-quality, reliable TravelMate community." 
+"## F-1: User Signin/Login page" 
+"This feature allows new users to create an account and existing users to log in to the system."
 "**Status: Implemented**" 
 "" 
