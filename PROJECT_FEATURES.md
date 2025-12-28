@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## F-6: Implement Manage user accounts (view, delete, block) for admin" 
+"Admin can view user profiles, delete accounts, or block users to maintain platform integrity and control user activity." 
+"**Status: Implemented**" 
+"" 
