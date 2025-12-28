@@ -1,1 +1,5 @@
 "# Implemented Features" 
+"## F-7: Admins can review, approve, and monitor all public tour events to ensure they follow platform guidelines and are safe for users" 
+"This helps prevent misuse and maintain a high-quality, reliable TravelMate community." 
+"**Status: Implemented**" 
+"" 
