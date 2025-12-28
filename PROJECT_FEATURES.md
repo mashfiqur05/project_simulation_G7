@@ -4,6 +4,10 @@ Admin can manage all travel destinations in the system. This includes adding new
 **Status: Implemented** 
 
 "# Implemented Features" 
+## F-2 Show demo or popular destinations
+## No user data is required
+## Suggestions are limited and generic
+
 "## F-7: Admins can review, approve, and monitor all public tour events to ensure they follow platform guidelines and are safe for users" 
 "This helps prevent misuse and maintain a high-quality, reliable TravelMate community." 
 "**Status: Implemented**" 
