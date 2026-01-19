@@ -29,3 +29,7 @@ Admin can manage all travel destinations in the system. This includes adding new
 This feature allows guest users (users who are not logged in) to browse publicly available tour events.
 **Status: Implemented**
 
+## F-13 Plan upcoming trips for registered users
+This feature allows registered users to plan and organize their upcoming trips within the system. Users can add trip details such as destination, travel dates, accommodation, and notes to keep their travel plans well-structured. This helps users manage future trips efficiently and stay prepared.
+**Status: Implemented**
+
