@@ -18,3 +18,7 @@ Admin can manage all travel destinations in the system. This includes adding new
 "This feature allows new users to create an account and existing users to log in to the system."
 "**Status: Implemented**" 
 "" 
+## F-11 View average cost estimations for trips for registered users
+This feature allows registered users to view average cost estimations for their trips. The system provides an estimated budget based on factors such as destination, trip duration, accommodation, transportation, and activities. These estimations help users plan their trips more effectively and make informed budgeting decisions.
+**Status: Implemented**
+
