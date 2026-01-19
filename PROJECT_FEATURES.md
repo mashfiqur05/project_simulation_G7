@@ -18,7 +18,7 @@ Admin can manage all travel destinations in the system. This includes adding new
 "This feature allows new users to create an account and existing users to log in to the system."
 "**Status: Implemented**" 
 "" 
-## F-15 Update personal profile for registered users
-This feature allows registered users to update and manage their personal profile information within the system. Users can edit details such as name, contact information, profile photo, and preferences to keep their account information up to date. The updated profile helps provide a better and more personalized user experience across the platform.
+## F-11 View average cost estimations for trips for registered users
+This feature allows registered users to view average cost estimations for their trips. The system provides an estimated budget based on factors such as destination, trip duration, accommodation, transportation, and activities. These estimations help users plan their trips more effectively and make informed budgeting decisions.
 **Status: Implemented**
 
