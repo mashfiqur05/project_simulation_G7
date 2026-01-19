@@ -22,3 +22,10 @@ Admin can manage all travel destinations in the system. This includes adding new
 "This task involves creating a login form component with email and password fields, including validation and error handling." 
 "*Status: Implemented*" 
 "" 
+"## F-6: Implement Manage user accounts (view, delete, block) for admin" 
+"Admin can view user profiles, delete accounts, or block users to maintain platform integrity and control user activity." 
+"**Status: Implemented**" 
+"" 
+This feature allows guest users (users who are not logged in) to browse publicly available tour events.
+**Status: Implemented**
+
