@@ -29,3 +29,14 @@ Admin can manage all travel destinations in the system. This includes adding new
 This feature allows guest users (users who are not logged in) to browse publicly available tour events.
 **Status: Implemented**
 
+"## F-14: Implement User Login Page" 
+"This task involves creating a login form component with email and password fields, including validation and error handling." 
+"*Status: Implemented*" 
+"" 
+"## F-14: Implement User Login Page" 
+"This task involves creating a login form component with email and password fields, including validation and error handling." 
+"*Status: Implemented*" 
+"## F-17: Implement User Login Page" 
+"This task involves creating a login form component with email and password fields, including validation and error handling." 
+"*Status: Implemented*" 
+"" 
