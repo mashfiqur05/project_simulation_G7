@@ -18,3 +18,7 @@ Admin can manage all travel destinations in the system. This includes adding new
 "This feature allows new users to create an account and existing users to log in to the system."
 "**Status: Implemented**" 
 "" 
+"## F-14: Implement User Login Page" 
+"This task involves creating a login form component with email and password fields, including validation and error handling." 
+"*Status: Implemented*" 
+"" 
