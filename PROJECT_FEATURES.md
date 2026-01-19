@@ -3,3 +3,7 @@
 "This helps prevent misuse and maintain a high-quality, reliable TravelMate community." 
 "**Status: Implemented**" 
 "" 
+"## F-12: Implement Add past trips for registered users" 
+"This feature allows registered users to add and manage their past trips within the system. Users can record details of trips they have already completed, such as destinations, travel dates, and notes. Storing past trips helps users maintain a personal travel history and easily revisit previous travel experiences." 
+"**Status: Implemented**" 
+"" 
