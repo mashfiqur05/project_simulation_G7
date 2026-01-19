@@ -40,3 +40,7 @@ This feature allows guest users (users who are not logged in) to browse publicly
 "This task involves creating a login form component with email and password fields, including validation and error handling." 
 "*Status: Implemented*" 
 "" 
+## F-18: Suggest destinations not yet visited for registered users via the system
+This feature provides registered users with personalized destination suggestions for places they have not yet visited. The system analyzes the user’s past trips and preferences to recommend new travel destinations. These suggestions help users discover new experiences and plan future trips more effectively.
+**Status: Implemented**
+
